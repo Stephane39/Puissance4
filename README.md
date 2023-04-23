@@ -1,4 +1,4 @@
-# Connect4WithBot
+# Puissance4
 
 ## Description
 
